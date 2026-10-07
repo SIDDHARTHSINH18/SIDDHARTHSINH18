@@ -1,16 +1,71 @@
-## Hi there 👋
+# Siddharthsinh J Vaghela
 
-<!--
-**SIDDHARTHSINH18/SIDDHARTHSINH18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Infrastructure Engineer
 
-Here are some ideas to get you started:
+---------------------------------
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently Building
+
+ENMA
+Personal AI Operating System
+
+QResolve
+AI Software Debugging Platform
+
+MeritOS
+Enterprise Resume Intelligence Platform
+
+Current Research
+
+MIRAGE
+Behavioral Verification Infrastructure
+for Autonomous AI Systems
+
+---------------------------------
+
+Research Interests
+
+AI Infrastructure
+
+Distributed Systems
+
+Autonomous Agents
+
+Behavior Verification
+
+Systems Engineering
+
+---------------------------------
+
+Technology
+
+Python
+
+TypeScript
+
+FastAPI
+
+React
+
+Electron
+
+Docker
+
+Linux
+
+LLMs
+
+RAG
+
+---------------------------------
+
+Current Goal
+
+Building production-grade AI systems
+that are reliable, secure and verifiable.
+
+--------------------------------- 
+
+Email - siddharthsinhjvaghela@gmail.com
+
+GitHub - SIDDHARTHSINH18
