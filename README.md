@@ -1,61 +1,47 @@
-# Siddharthsinh J. Vaghela
+# Hi, I'm Siddharthsinh
 
-BCA student (graduating in 2027) and software developer building local-first AI applications, full-stack systems, and reliability-focused developer tools.
+I'm a BCA student from Gujarat, India, graduating in 2027. I enjoy building software that solves real problems, especially local-first AI tools, full-stack applications and developer tools where reliability matters.
 
-I work mainly with Python, FastAPI, React, TypeScript, Electron, SQLite, automated testing, and security-conscious application design. I am currently seeking software engineering internships and entry-level opportunities where I can contribute to real products and continue developing strong systems-engineering fundamentals.
+Most of my work is in Python, FastAPI, React, TypeScript, Electron and SQLite. Right now, I'm also spending time on data structures, algorithms and stronger computer science fundamentals.
 
-## Selected work
+## What I'm building
 
 ### [ENMA](https://github.com/SIDDHARTHSINH18/E.N.M.A)
 
-A privacy-first desktop AI workspace built around explicit permissions, provider-agnostic model routing, auditable tool execution, persistent tasks, and evidence-backed results.
-
-**Engineering areas:** Python, FastAPI, React, Vite, Electron, SQLite, pytest, local execution boundaries, model routing, and Windows packaging.
+A privacy-first desktop AI workspace. ENMA brings together model routing, permissions, local tools, persistent tasks and audit records. One of the main ideas behind it is simple: an AI response should not be treated as proof that an action actually worked.
 
 ### MeritOS
 
-A private, local-first recruitment workflow platform designed around deterministic candidate evidence, human-controlled decisions, audit trails, privacy modes, and tested full-stack workflows.
+A recruitment workflow platform for managing jobs, candidates, screening evidence and interviews. The system keeps the final hiring decision with a human reviewer and is designed to run locally when privacy is important.
 
-**Engineering areas:** FastAPI, React, TypeScript, SQLite, authentication, candidate intake, workflow design, testing, and privacy controls.  
-*Source remains private because the project includes product and client-sensitive work.*
+The repository is private because it includes product and client-related work.
 
 ### Qorvia Studio
 
-A private quantum-software debugging and validation project that separates diagnosis and proposed repair from runtime verification across multiple quantum frameworks.
+A debugging and validation tool for quantum programs. It works across Qiskit, Cirq, PennyLane and OpenQASM, with a focus on testing proposed fixes instead of only generating explanations.
 
-**Engineering areas:** Python, FastAPI, Qiskit, Cirq, PennyLane, OpenQASM, runtime adapters, bounded execution, and validation states.  
-*Source remains private while security and product boundaries are being developed.*
+The source is private while I continue working on the product and its execution-security boundaries.
 
 ### INVARIANTIS
 
-An independent software-reliability and verification system developed from MIRAGE research. The work focuses on evidence, reproducibility, failure boundaries, and truthful verification claims.
+A software reliability and independent verification project developed from my MIRAGE research. It explores how software and AI-generated results can be checked using evidence instead of trusted only because they appear correct.
 
-*Research and implementation details are intentionally limited while the work remains proprietary and under development.*
+Some research and implementation details are not public yet.
 
-## Technical focus
+## Tools I use
 
-- Backend engineering with Python, FastAPI, REST APIs, and SQLite
-- Frontend engineering with React, TypeScript, and Vite
-- Desktop application development with Electron
-- Automated testing, validation, auditability, and secure defaults
-- Local-first AI systems, model-provider abstraction, and human approval boundaries
-- Quantum-software tooling and software reliability research
+- Python, FastAPI and REST APIs
+- React, TypeScript and Vite
+- Electron and desktop application development
+- SQLite, pytest, Vitest and Git
+- AI model integration, local-first design and security-focused workflows
+- Qiskit, Cirq, PennyLane and OpenQASM
 
-## How I work
+## What I'm looking for
 
-- I prefer reproducible evidence over feature claims.
-- I document known limitations instead of presenting unfinished work as complete.
-- I treat credentials, user data, and execution permissions as security boundaries.
-- I use tests and descriptive commits to make changes reviewable.
-
-## Currently
-
-- Completing my BCA, graduating in 2027
-- Strengthening data structures, algorithms, computer science fundamentals, and production engineering
-- Open to software engineering internships and entry-level Python, full-stack, and AI engineering roles
+I'm open to software engineering internships and entry-level roles in Python, full-stack development or AI engineering. I am especially interested in teams where I can work on real products, learn from experienced engineers and take responsibility for meaningful features.
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/siddharthsinh-vaghela)
 - [Email](mailto:siddharthsinhjvaghela@gmail.com)
-
